@@ -2,6 +2,15 @@
 .cache/
 .ipynb_checkpoints/
 .vscode/
+# 数据集
+data/
+# 模型
+models/
+# 日志
+logs/
+# 图片
+*.png
+# 环境变量
 .env/
 .env.local/
 .env.development.local/
